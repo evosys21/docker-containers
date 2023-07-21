@@ -1,0 +1,18 @@
+# .env file has to be in the same directory as docker-compose
+
+version: '3.7'
+
+services:
+  php-nginx:
+#    image: mariadb:latest
+    build:
+      context: ./8.2
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - '80:80'
+    volumes:
+      - d:\Projects\pdf-addons\tcpdf-table:/var/www/html
+      - ./8.2/php.config.ini:/etc/php/8.2/mods-available/php.config.ini
+#      - ./mods:/etc/php/8.0/mods-available
+      - ./logs:/logs

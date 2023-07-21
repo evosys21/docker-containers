@@ -1,0 +1,54 @@
+[3736] Log opened at 2023-07-15 10:03:25.584821
+[3736] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3736] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3736] [Config] INFO: No shared secret: Activating
+[3736] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3736] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3736] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3736] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3736] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3736] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3736] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3736] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3736] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3736] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3736] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3736] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3736] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3736] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3736] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3736] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3736] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3736] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3736] Log closed at 2023-07-15 10:03:25.616780
+
+[3736] Log opened at 2023-07-15 10:03:39.951604
+[3736] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3736] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3736] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[3736] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3736] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3736] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3736] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3736] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3736] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3736] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3736] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3736] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3736] Log closed at 2023-07-15 10:03:39.958023
+
+[11] Log opened at 2023-07-15 15:30:44.842225
+[11] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[11] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[11] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[11] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[11] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[11] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[11] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[11] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[11] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[11] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[11] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[11] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[11] Log closed at 2023-07-15 15:30:44.978231
+
