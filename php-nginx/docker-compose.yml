@@ -10,9 +10,9 @@ services:
       dockerfile: Dockerfile
     restart: unless-stopped
     ports:
-      - '80:80'
+      - '8080:80'
     volumes:
-      - d:\Projects\pdf-addons\tcpdf-table:/var/www/html
+      - ../src:/var/www/html
       - ./8.2/php.config.ini:/etc/php/8.2/mods-available/php.config.ini
 #      - ./mods:/etc/php/8.0/mods-available
       - ./logs:/logs

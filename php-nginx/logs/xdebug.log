@@ -52,3 +52,1066 @@
 [11] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
 [11] Log closed at 2023-07-15 15:30:44.978231
 
+[9] Log opened at 2023-07-21 08:47:09.289271
+[9] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[9] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[9] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[9] Log closed at 2023-07-21 08:47:09.317339
+
+[10] Log opened at 2023-07-21 08:47:11.878333
+[10] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[10] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[10] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[10] Log closed at 2023-07-21 08:47:11.880130
+
+[10] Log opened at 2023-07-21 08:47:12.313431
+[10] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[10] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[10] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[10] Log closed at 2023-07-21 08:47:12.316100
+
+[10] Log opened at 2023-07-21 08:47:53.857239
+[10] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[10] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[10] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[10] Log closed at 2023-07-21 08:47:53.863185
+
+[9] Log opened at 2023-07-21 08:48:01.294043
+[9] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[9] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[9] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[9] Log closed at 2023-07-21 08:48:01.297892
+
+[11] Log opened at 2023-07-21 08:48:06.796702
+[11] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[11] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[11] [Config] INFO: No shared secret: Activating
+[11] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[11] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[11] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[11] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[11] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[11] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[11] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[11] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[11] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[11] Log closed at 2023-07-21 08:48:06.803476
+
+[12] Log opened at 2023-07-21 08:48:16.766394
+[12] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[12] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[12] [Config] INFO: No shared secret: Activating
+[12] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[12] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[12] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[12] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[12] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[12] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[12] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[12] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[12] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[12] Log closed at 2023-07-21 08:48:16.771765
+
+[12] Log opened at 2023-07-21 08:48:17.548421
+[12] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[12] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[12] [Config] INFO: No shared secret: Activating
+[12] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[12] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[12] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[12] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[12] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[12] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[12] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[12] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[12] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[12] Log closed at 2023-07-21 08:48:17.553547
+
+[13] Log opened at 2023-07-21 08:48:25.452580
+[13] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[13] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[13] [Config] INFO: No shared secret: Activating
+[13] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[13] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[13] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[13] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[13] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[13] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[13] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[13] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[13] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[13] Log closed at 2023-07-21 08:48:25.482479
+
+[180] Log opened at 2023-07-21 08:50:33.986753
+[180] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[180] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[180] [Config] INFO: No shared secret: Activating
+[180] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[180] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[180] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[180] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[180] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[180] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[180] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[180] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[180] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[180] Log closed at 2023-07-21 08:50:34.017438
+
+[180] Log opened at 2023-07-21 08:50:34.793350
+[180] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[180] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[180] [Config] INFO: No shared secret: Activating
+[180] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[180] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[180] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[180] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[180] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[180] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[180] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[180] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[180] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[180] Log closed at 2023-07-21 08:50:34.799634
+
+[180] Log opened at 2023-07-21 08:50:36.738320
+[180] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[180] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[180] [Config] INFO: No shared secret: Activating
+[180] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[180] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[180] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[180] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[180] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[180] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[180] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[180] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[180] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[180] Log closed at 2023-07-21 08:50:36.745782
+
+[239] Log opened at 2023-07-21 08:50:37.460033
+[239] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[239] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[239] [Config] INFO: No shared secret: Activating
+[239] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[239] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[239] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[239] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[239] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[239] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[239] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[239] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[239] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[239] Log closed at 2023-07-21 08:50:37.466920
+
+[239] Log opened at 2023-07-21 08:50:38.071556
+[239] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[239] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[239] [Config] INFO: No shared secret: Activating
+[239] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[239] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[239] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[239] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[239] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[239] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[239] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[239] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[239] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[239] Log closed at 2023-07-21 08:50:38.076862
+
+[327] Log opened at 2023-07-21 08:50:41.802782
+[327] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[327] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[327] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[327] Log closed at 2023-07-21 08:50:41.810109
+
+[327] Log opened at 2023-07-21 08:50:42.683529
+[327] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[327] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[327] [Config] INFO: Trigger value for 'XDEBUG_SESSION' not found, so not activating
+[327] Log closed at 2023-07-21 08:50:42.684956
+
+[415] Log opened at 2023-07-21 08:50:46.039233
+[415] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[415] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[415] [Config] INFO: No shared secret: Activating
+[415] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[415] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[415] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[415] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[415] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[415] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[415] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[415] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[415] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[415] Log closed at 2023-07-21 08:50:46.050606
+
+[415] Log opened at 2023-07-21 08:50:46.729667
+[415] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[415] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[415] [Config] INFO: No shared secret: Activating
+[415] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[415] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[415] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[415] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[415] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[415] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[415] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[415] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[415] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[415] Log closed at 2023-07-21 08:50:46.733391
+
+[474] Log opened at 2023-07-21 08:50:47.842978
+[474] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[474] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[474] [Config] INFO: No shared secret: Activating
+[474] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[474] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[474] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[474] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[474] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[474] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[474] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[474] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[474] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[474] Log closed at 2023-07-21 08:50:47.849503
+
+[474] Log opened at 2023-07-21 08:51:37.596938
+[474] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[474] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[474] [Config] INFO: No shared secret: Activating
+[474] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[474] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[474] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[474] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[474] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[474] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[474] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[474] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[474] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[474] Log closed at 2023-07-21 08:51:37.600775
+
+[1521] Log opened at 2023-07-21 08:51:38.262722
+[1521] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1521] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1521] [Config] INFO: No shared secret: Activating
+[1521] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1521] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1521] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1521] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1521] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1521] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1521] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1521] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1521] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1521] Log closed at 2023-07-21 08:51:38.270120
+
+[1521] Log opened at 2023-07-21 08:51:38.601536
+[1521] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1521] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1521] [Config] INFO: No shared secret: Activating
+[1521] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1521] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1521] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1521] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1521] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1521] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1521] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1521] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1521] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1521] Log closed at 2023-07-21 08:51:38.605476
+
+[1551] Log opened at 2023-07-21 08:51:38.866087
+[1551] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1551] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1551] [Config] INFO: No shared secret: Activating
+[1551] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1551] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1551] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1551] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1551] Log closed at 2023-07-21 08:51:38.872643
+
+[1551] Log opened at 2023-07-21 08:51:39.135506
+[1551] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1551] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1551] [Config] INFO: No shared secret: Activating
+[1551] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1551] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1551] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1551] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1551] Log closed at 2023-07-21 08:51:39.138794
+
+[1551] Log opened at 2023-07-21 08:51:39.400581
+[1551] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1551] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1551] [Config] INFO: No shared secret: Activating
+[1551] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1551] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1551] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1551] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1551] Log closed at 2023-07-21 08:51:39.404403
+
+[1551] Log opened at 2023-07-21 08:51:39.631462
+[1551] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1551] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1551] [Config] INFO: No shared secret: Activating
+[1551] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1551] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1551] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1551] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1551] Log closed at 2023-07-21 08:51:39.635627
+
+[1551] Log opened at 2023-07-21 08:51:39.862218
+[1551] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1551] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1551] [Config] INFO: No shared secret: Activating
+[1551] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1551] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1551] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1551] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1551] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1551] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1551] Log closed at 2023-07-21 08:51:39.866504
+
+[1581] Log opened at 2023-07-21 08:51:40.074026
+[1581] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1581] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1581] [Config] INFO: No shared secret: Activating
+[1581] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1581] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1581] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1581] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1581] Log closed at 2023-07-21 08:51:40.080346
+
+[1581] Log opened at 2023-07-21 08:51:40.274361
+[1581] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1581] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1581] [Config] INFO: No shared secret: Activating
+[1581] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1581] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1581] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1581] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1581] Log closed at 2023-07-21 08:51:40.278104
+
+[1581] Log opened at 2023-07-21 08:51:40.499587
+[1581] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1581] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1581] [Config] INFO: No shared secret: Activating
+[1581] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1581] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1581] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1581] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1581] Log closed at 2023-07-21 08:51:40.503442
+
+[1581] Log opened at 2023-07-21 08:51:40.708225
+[1581] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1581] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1581] [Config] INFO: No shared secret: Activating
+[1581] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1581] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1581] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1581] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1581] Log closed at 2023-07-21 08:51:40.712270
+
+[1581] Log opened at 2023-07-21 08:51:51.602871
+[1581] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1581] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1581] [Config] INFO: No shared secret: Activating
+[1581] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1581] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1581] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1581] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1581] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1581] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1581] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1581] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1581] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1581] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1581] Log closed at 2023-07-21 08:51:51.610517
+
+[1844] Log opened at 2023-07-21 08:51:52.227788
+[1844] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1844] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1844] [Config] INFO: No shared secret: Activating
+[1844] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1844] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1844] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1844] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1844] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1844] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1844] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1844] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1844] Log closed at 2023-07-21 08:51:52.237163
+
+[1844] Log opened at 2023-07-21 08:51:57.834233
+[1844] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[1844] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[1844] [Config] INFO: No shared secret: Activating
+[1844] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1844] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1844] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1844] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1844] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1844] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[1844] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[1844] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[1844] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[1844] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[1844] Log closed at 2023-07-21 08:51:57.844025
+
+[3092] Log opened at 2023-07-21 08:52:51.703907
+[3092] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3092] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3092] [Config] INFO: No shared secret: Activating
+[3092] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3092] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3092] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3092] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3092] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3092] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3092] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3092] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3092] Log closed at 2023-07-21 08:52:51.713567
+
+[3092] Log opened at 2023-07-21 08:52:52.315625
+[3092] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3092] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3092] [Config] INFO: No shared secret: Activating
+[3092] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3092] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3092] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3092] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3092] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3092] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3092] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3092] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3092] Log closed at 2023-07-21 08:52:52.322887
+
+[3092] Log opened at 2023-07-21 08:52:52.794663
+[3092] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3092] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3092] [Config] INFO: No shared secret: Activating
+[3092] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3092] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3092] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3092] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3092] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3092] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3092] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3092] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3092] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3092] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3092] Log closed at 2023-07-21 08:52:52.800774
+
+[3122] Log opened at 2023-07-21 08:52:53.119851
+[3122] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3122] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3122] [Config] INFO: No shared secret: Activating
+[3122] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3122] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3122] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3122] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3122] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3122] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3122] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3122] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3122] Log closed at 2023-07-21 08:52:53.129362
+
+[3122] Log opened at 2023-07-21 08:53:01.357185
+[3122] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3122] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3122] [Config] INFO: No shared secret: Activating
+[3122] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3122] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3122] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3122] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3122] [Step Debug] INFO: Checking for client discovery headers: 'HTTP_X_FORWARDED_FOR,REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Checking header 'HTTP_X_FORWARDED_FOR'.
+[3122] [Step Debug] INFO: Checking header 'REMOTE_ADDR'.
+[3122] [Step Debug] INFO: Client host discovered through HTTP header, connecting to 172.24.0.1:9003.
+[3122] [Step Debug] WARN: Creating socket for '172.24.0.1:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Could not connect to client host discovered through HTTP headers, connecting to configured address/port: localhost:9003.
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', poll success, but error: Operation now in progress (29).
+[3122] [Step Debug] WARN: Creating socket for 'localhost:9003', connect: Cannot assign requested address.
+[3122] [Step Debug] ERR: Could not connect to debugging client. Tried: 172.24.0.1:9003 (from REMOTE_ADDR HTTP header), localhost:9003 (fallback through xdebug.client_host/xdebug.client_port).
+[3122] Log closed at 2023-07-21 08:53:01.362559
+
+[3326] Log opened at 2023-07-21 08:53:02.100671
+[3326] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3326] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3326] [Config] INFO: No shared secret: Activating
+[3326] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[3326] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[3326] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="8.2.7" protocol_version="1.0" appid="3326" idekey="XDEBUG_ECLIPSE"><engine version="3.2.1"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[3326] [Step Debug] <- feature_set -i 1 -n show_hidden -v 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[3326] [Step Debug] <- feature_set -i 2 -n max_depth -v 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[3326] [Step Debug] <- feature_set -i 3 -n max_children -v 100
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[3326] [Step Debug] <- feature_set -i 4 -n extended_properties -v 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[3326] [Step Debug] <- feature_set -i 5 -n notify_ok -v 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[3326] [Step Debug] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[3326] [Step Debug] <- feature_set -i 7 -n breakpoint_include_return_value -v 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="7" feature="breakpoint_include_return_value" success="1"></response>
+
+[3326] [Step Debug] <- stdout -i 8 -c 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="8" success="1"></response>
+
+[3326] [Step Debug] <- status -i 9
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="9" status="starting" reason="ok"></response>
+
+[3326] [Step Debug] <- step_into -i 10
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="3"></xdebug:message></response>
+
+[3326] [Step Debug] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[3326] [Step Debug] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[1]]></property></response>
+
+[3326] [Step Debug] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property></response>
+
+[3326] [Step Debug] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property></response>
+
+[3326] [Step Debug] <- eval -i 15 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="15"><property type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property></response>
+
+[3326] [Step Debug] <- breakpoint_set -i 16 -t line -f file:///var/www/html/index.php -n 4
+[3326] [Step Debug] DEBUG: R: Line number (4) in smallest range of range (1-7).
+[3326] [Step Debug] DEBUG: F: Breakpoint line (4) found in set of executable lines.
+[3326] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/index.php" lineno="4" state="enabled" hit_count="0" hit_value="0" id="33260001"></breakpoint></notify>
+
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="33260001" resolved="resolved"></response>
+
+[3326] [Step Debug] <- stack_get -i 17
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="17"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="3"></stack></response>
+
+[3326] [Step Debug] <- run -i 18
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="18" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="4"></xdebug:message></response>
+
+[3326] [Step Debug] <- stack_get -i 19
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="19"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="4"></stack></response>
+
+[3326] [Step Debug] <- context_names -i 20
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="20"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[3326] [Step Debug] <- context_get -i 21 -d 0 -c 0
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="21" context="0"></response>
+
+[3326] [Step Debug] <- context_get -i 22 -d 0 -c 0
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="22" context="0"></response>
+
+[3326] [Step Debug] <- context_get -i 23 -d 0 -c 1
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="23" context="1"><property name="$_GET" fullname="$_GET" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_POST" fullname="$_POST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="1" numchildren="3" page="0" pagesize="100"><property name="_ga" fullname="$_COOKIE[&quot;_ga&quot;]" type="string" size="27" encoding="base64"><![CDATA[R0ExLjEuMTk0MTA3OTgwNi4xNjg5Njk2NTQx]]></property><property name="_gid" fullname="$_COOKIE[&quot;_gid&quot;]" type="string" size="26" encoding="base64"><![CDATA[R0ExLjEuMTM1OTkxMDIzLjE2ODk2OTY1NDE=]]></property><property name="XDEBUG_SESSION" fullname="$_COOKIE[&quot;XDEBUG_SESSION&quot;]" type="string" size="14" encoding="base64"><![CDATA[WERFQlVHX0VDTElQU0U=]]></property></property><property name="$_FILES" fullname="$_FILES" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_ENV" fullname="$_ENV" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_REQUEST" fullname="$_REQUEST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_SERVER" fullname="$_SERVER" type="array" children="1" numchildren="40" page="0" pagesize="100"><property name="HTTP_HOST" fullname="$_SERVER[&quot;HTTP_HOST&quot;]" type="string" size="14" encoding="base64"><![CDATA[bG9jYWxob3N0OjgwODA=]]></property><property name="HTTP_CONNECTION" fullname="$_SERVER[&quot;HTTP_CONNECTION&quot;]" type="string" size="10" encoding="base64"><![CDATA[a2VlcC1hbGl2ZQ==]]></property><property name="HTTP_CACHE_CONTROL" fullname="$_SERVER[&quot;HTTP_CACHE_CONTROL&quot;]" type="string" size="9" encoding="base64"><![CDATA[bWF4LWFnZT0w]]></property><property name="HTTP_SEC_CH_UA" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA&quot;]" type="string" size="65" encoding="base64"><![CDATA[Ik5vdC9BKUJyYW5kIjt2PSI5OSIsICJHb29nbGUgQ2hyb21lIjt2PSIxMTUiLCAiQ2hyb21pdW0iO3Y9IjExNSI=]]></property><property name="HTTP_SEC_CH_UA_MOBILE" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA_MOBILE&quot;]" type="string" size="2" encoding="base64"><![CDATA[PzA=]]></property><property name="HTTP_SEC_CH_UA_PLATFORM" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA_PLATFORM&quot;]" type="string" size="9" encoding="base64"><![CDATA[IldpbmRvd3Mi]]></property><property name="HTTP_DNT" fullname="$_SERVER[&quot;HTTP_DNT&quot;]" type="string" size="1" encoding="base64"><![CDATA[MQ==]]></property><property name="HTTP_UPGRADE_INSECURE_REQUESTS" fullname="$_SERVER[&quot;HTTP_UPGRADE_INSECURE_REQUESTS&quot;]" type="string" size="1" encoding="base64"><![CDATA[MQ==]]></property><property name="HTTP_USER_AGENT" fullname="$_SERVER[&quot;HTTP_USER_AGENT&quot;]" type="string" size="111" encoding="base64"><![CDATA[TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNS4wLjAuMCBTYWZhcmkvNTM3LjM2]]></property><property name="HTTP_ACCEPT" fullname="$_SERVER[&quot;HTTP_ACCEPT&quot;]" type="string" size="135" encoding="base64"><![CDATA[dGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2UvYXZpZixpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44LGFwcGxpY2F0aW9uL3NpZ25lZC1leGNoYW5nZTt2PWIzO3E9MC43]]></property><property name="HTTP_SEC_FETCH_SITE" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_SITE&quot;]" type="string" size="4" encoding="base64"><![CDATA[bm9uZQ==]]></property><property name="HTTP_SEC_FETCH_MODE" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_MODE&quot;]" type="string" size="8" encoding="base64"><![CDATA[bmF2aWdhdGU=]]></property><property name="HTTP_SEC_FETCH_USER" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_USER&quot;]" type="string" size="2" encoding="base64"><![CDATA[PzE=]]></property><property name="HTTP_SEC_FETCH_DEST" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_DEST&quot;]" type="string" size="8" encoding="base64"><![CDATA[ZG9jdW1lbnQ=]]></property><property name="HTTP_ACCEPT_ENCODING" fullname="$_SERVER[&quot;HTTP_ACCEPT_ENCODING&quot;]" type="string" size="17" encoding="base64"><![CDATA[Z3ppcCwgZGVmbGF0ZSwgYnI=]]></property><property name="HTTP_ACCEPT_LANGUAGE" fullname="$_SERVER[&quot;HTTP_ACCEPT_LANGUAGE&quot;]" type="string" size="41" encoding="base64"><![CDATA[ZW4sZGU7cT0wLjksZW4tVVM7cT0wLjgscm87cT0wLjcsbGE7cT0wLjY=]]></property><property name="HTTP_COOKIE" fullname="$_SERVER[&quot;HTTP_COOKIE&quot;]" type="string" size="95" encoding="base64"><![CDATA[X2dhPUdBMS4xLjE5NDEwNzk4MDYuMTY4OTY5NjU0MTsgX2dpZD1HQTEuMS4xMzU5OTEwMjMuMTY4OTY5NjU0MTsgWERFQlVHX1NFU1NJT049WERFQlVHX0VDTElQU0U=]]></property><property name="PATH" fullname="$_SERVER[&quot;PATH&quot;]" type="string" size="60" encoding="base64"><![CDATA[L3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmlu]]></property><property type="string" size="72"><name encoding="base64"><![CDATA[U0VSVkVSX1NJR05BVFVSRQ==]]></name><fullname encoding="base64"><![CDATA[JF9TRVJWRVJbIlNFUlZFUl9TSUdOQVRVUkUiXQ==]]></fullname><value encoding="base64"><![CDATA[PGFkZHJlc3M+QXBhY2hlLzIuNC41NiAoRGViaWFuKSBTZXJ2ZXIgYXQgbG9jYWxob3N0IFBvcnQgODA4MDwvYWRkcmVzcz4K]]></value></property><property name="SERVER_SOFTWARE" fullname="$_SERVER[&quot;SERVER_SOFTWARE&quot;]" type="string" size="22" encoding="base64"><![CDATA[QXBhY2hlLzIuNC41NiAoRGViaWFuKQ==]]></property><property name="SERVER_NAME" fullname="$_SERVER[&quot;SERVER_NAME&quot;]" type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property><property name="SERVER_ADDR" fullname="$_SERVER[&quot;SERVER_ADDR&quot;]" type="string" size="10" encoding="base64"><![CDATA[MTcyLjI0LjAuMg==]]></property><property name="SERVER_PORT" fullname="$_SERVER[&quot;SERVER_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property><property name="REMOTE_ADDR" fullname="$_SERVER[&quot;REMOTE_ADDR&quot;]" type="string" size="10" encoding="base64"><![CDATA[MTcyLjI0LjAuMQ==]]></property><property name="DOCUMENT_ROOT" fullname="$_SERVER[&quot;DOCUMENT_ROOT&quot;]" type="string" size="13" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbA==]]></property><property name="REQUEST_SCHEME" fullname="$_SERVER[&quot;REQUEST_SCHEME&quot;]" type="string" size="4" encoding="base64"><![CDATA[aHR0cA==]]></property><property name="CONTEXT_PREFIX" fullname="$_SERVER[&quot;CONTEXT_PREFIX&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="CONTEXT_DOCUMENT_ROOT" fullname="$_SERVER[&quot;CONTEXT_DOCUMENT_ROOT&quot;]" type="string" size="13" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbA==]]></property><property name="SERVER_ADMIN" fullname="$_SERVER[&quot;SERVER_ADMIN&quot;]" type="string" size="19" encoding="base64"><![CDATA[d2VibWFzdGVyQGxvY2FsaG9zdA==]]></property><property name="SCRIPT_FILENAME" fullname="$_SERVER[&quot;SCRIPT_FILENAME&quot;]" type="string" size="23" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbC9pbmRleC5waHA=]]></property><property name="REMOTE_PORT" fullname="$_SERVER[&quot;REMOTE_PORT&quot;]" type="string" size="5" encoding="base64"><![CDATA[MzU0OTg=]]></property><property name="GATEWAY_INTERFACE" fullname="$_SERVER[&quot;GATEWAY_INTERFACE&quot;]" type="string" size="7" encoding="base64"><![CDATA[Q0dJLzEuMQ==]]></property><property name="SERVER_PROTOCOL" fullname="$_SERVER[&quot;SERVER_PROTOCOL&quot;]" type="string" size="8" encoding="base64"><![CDATA[SFRUUC8xLjE=]]></property><property name="REQUEST_METHOD" fullname="$_SERVER[&quot;REQUEST_METHOD&quot;]" type="string" size="3" encoding="base64"><![CDATA[R0VU]]></property><property name="QUERY_STRING" fullname="$_SERVER[&quot;QUERY_STRING&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="REQUEST_URI" fullname="$_SERVER[&quot;REQUEST_URI&quot;]" type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property><property name="SCRIPT_NAME" fullname="$_SERVER[&quot;SCRIPT_NAME&quot;]" type="string" size="10" encoding="base64"><![CDATA[L2luZGV4LnBocA==]]></property><property name="PHP_SELF" fullname="$_SERVER[&quot;PHP_SELF&quot;]" type="string" size="10" encoding="base64"><![CDATA[L2luZGV4LnBocA==]]></property><property name="REQUEST_TIME_FLOAT" fullname="$_SERVER[&quot;REQUEST_TIME_FLOAT&quot;]" type="float"><![CDATA[1689929582.0962]]></property><property name="REQUEST_TIME" fullname="$_SERVER[&quot;REQUEST_TIME&quot;]" type="int"><![CDATA[1689929582]]></property></property></response>
+
+[3326] [Step Debug] <- context_get -i 24 -d 0 -c 2
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="24" context="2"></response>
+
+[3326] [Step Debug] <- breakpoint_remove -i 25 -d 33260001
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="25"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/index.php" lineno="4" state="enabled" hit_count="0" hit_value="0" id="33260001"></breakpoint></response>
+
+[3326] [Step Debug] <- breakpoint_set -i 26 -t line -f file:///var/www/html/index.php -n 3
+[3326] [Step Debug] DEBUG: R: Line number (3) in smallest range of range (1-7).
+[3326] [Step Debug] DEBUG: F: Breakpoint line (3) found in set of executable lines.
+[3326] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/index.php" lineno="3" state="enabled" hit_count="0" hit_value="0" id="33260002"></breakpoint></notify>
+
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="26" id="33260002" resolved="resolved"></response>
+
+[3326] [Step Debug] <- breakpoint_remove -i 27 -d 33260002
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_remove" transaction_id="27"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/index.php" lineno="3" state="enabled" hit_count="0" hit_value="0" id="33260002"></breakpoint></response>
+
+[3326] [Step Debug] <- run -i 28
+[3326] [Step Debug] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[SW5kZXg8YnI+eHg=]]></stream>
+
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="28" status="stopping" reason="ok"></response>
+
+[3326] [Step Debug] <- detach -i 29
+[3326] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="detach" transaction_id="29" status="stopping" reason="ok"></response>
+
+[3326] Log closed at 2023-07-21 08:53:20.189013
+
+[3705] Log opened at 2023-07-21 08:53:21.398218
+[3705] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3705] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3705] [Config] INFO: No shared secret: Activating
+[3705] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[3705] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[3705] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="8.2.7" protocol_version="1.0" appid="3705" idekey="XDEBUG_ECLIPSE"><engine version="3.2.1"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[3705] [Step Debug] <- feature_set -i 1 -n show_hidden -v 1
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[3705] [Step Debug] <- feature_set -i 2 -n max_depth -v 1
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[3705] [Step Debug] <- feature_set -i 3 -n max_children -v 100
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[3705] [Step Debug] <- feature_set -i 4 -n extended_properties -v 1
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[3705] [Step Debug] <- feature_set -i 5 -n notify_ok -v 1
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[3705] [Step Debug] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[3705] [Step Debug] <- feature_set -i 7 -n breakpoint_include_return_value -v 1
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="7" feature="breakpoint_include_return_value" success="1"></response>
+
+[3705] [Step Debug] <- stdout -i 8 -c 1
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="8" success="1"></response>
+
+[3705] [Step Debug] <- status -i 9
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="9" status="starting" reason="ok"></response>
+
+[3705] [Step Debug] <- step_into -i 10
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="3"></xdebug:message></response>
+
+[3705] [Step Debug] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[3705] [Step Debug] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[1]]></property></response>
+
+[3705] [Step Debug] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property></response>
+
+[3705] [Step Debug] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property></response>
+
+[3705] [Step Debug] <- eval -i 15 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="15"><property type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property></response>
+
+[3705] [Step Debug] <- stack_get -i 16
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="16"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="3"></stack></response>
+
+[3705] [Step Debug] <- run -i 17
+[3705] [Step Debug] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[SW5kZXg8YnI+eHg=]]></stream>
+
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="17" status="stopping" reason="ok"></response>
+
+[3705] [Step Debug] <- detach -i 18
+[3705] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="detach" transaction_id="18" status="stopping" reason="ok"></response>
+
+[3705] Log closed at 2023-07-21 08:53:21.469294
+
+[3735] Log opened at 2023-07-21 08:53:22.305939
+[3735] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3735] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3735] [Config] INFO: No shared secret: Activating
+[3735] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[3735] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[3735] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="8.2.7" protocol_version="1.0" appid="3735" idekey="XDEBUG_ECLIPSE"><engine version="3.2.1"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[3735] [Step Debug] <- feature_set -i 1 -n show_hidden -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 2 -n max_depth -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 3 -n max_children -v 100
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 4 -n extended_properties -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 5 -n notify_ok -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 7 -n breakpoint_include_return_value -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="7" feature="breakpoint_include_return_value" success="1"></response>
+
+[3735] [Step Debug] <- stdout -i 8 -c 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="8" success="1"></response>
+
+[3735] [Step Debug] <- status -i 9
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="9" status="starting" reason="ok"></response>
+
+[3735] [Step Debug] <- step_into -i 10
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="3"></xdebug:message></response>
+
+[3735] [Step Debug] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[3735] [Step Debug] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[1]]></property></response>
+
+[3735] [Step Debug] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property></response>
+
+[3735] [Step Debug] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property></response>
+
+[3735] [Step Debug] <- eval -i 15 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="15"><property type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property></response>
+
+[3735] [Step Debug] <- stack_get -i 16
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="16"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="3"></stack></response>
+
+[3735] [Step Debug] <- run -i 17
+[3735] [Step Debug] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[SW5kZXg8YnI+eHg=]]></stream>
+
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="17" status="stopping" reason="ok"></response>
+
+[3735] [Step Debug] <- detach -i 18
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="detach" transaction_id="18" status="stopping" reason="ok"></response>
+
+[3735] Log closed at 2023-07-21 08:53:22.441339
+
+[3735] Log opened at 2023-07-21 08:53:22.983514
+[3735] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3735] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3735] [Config] INFO: No shared secret: Activating
+[3735] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[3735] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[3735] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="8.2.7" protocol_version="1.0" appid="3735" idekey="XDEBUG_ECLIPSE"><engine version="3.2.1"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[3735] [Step Debug] <- feature_set -i 1 -n show_hidden -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 2 -n max_depth -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 3 -n max_children -v 100
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 4 -n extended_properties -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 5 -n notify_ok -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[3735] [Step Debug] <- feature_set -i 7 -n breakpoint_include_return_value -v 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="7" feature="breakpoint_include_return_value" success="1"></response>
+
+[3735] [Step Debug] <- stdout -i 8 -c 1
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="8" success="1"></response>
+
+[3735] [Step Debug] <- status -i 9
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="9" status="starting" reason="ok"></response>
+
+[3735] [Step Debug] <- step_into -i 10
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="3"></xdebug:message></response>
+
+[3735] [Step Debug] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[3735] [Step Debug] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[1]]></property></response>
+
+[3735] [Step Debug] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property></response>
+
+[3735] [Step Debug] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property></response>
+
+[3735] [Step Debug] <- eval -i 15 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="15"><property type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property></response>
+
+[3735] [Step Debug] <- stack_get -i 16
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="16"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="3"></stack></response>
+
+[3735] [Step Debug] <- run -i 17
+[3735] [Step Debug] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[SW5kZXg8YnI+eHg=]]></stream>
+
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="17" status="stopping" reason="ok"></response>
+
+[3735] [Step Debug] <- detach -i 18
+[3735] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="detach" transaction_id="18" status="stopping" reason="ok"></response>
+
+[3735] Log closed at 2023-07-21 08:53:23.094030
+
+[3765] Log opened at 2023-07-21 08:53:23.514400
+[3765] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3765] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3765] [Config] INFO: No shared secret: Activating
+[3765] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[3765] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[3765] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="8.2.7" protocol_version="1.0" appid="3765" idekey="XDEBUG_ECLIPSE"><engine version="3.2.1"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[3765] [Step Debug] <- feature_set -i 1 -n show_hidden -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 2 -n max_depth -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 3 -n max_children -v 100
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 4 -n extended_properties -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 5 -n notify_ok -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 7 -n breakpoint_include_return_value -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="7" feature="breakpoint_include_return_value" success="1"></response>
+
+[3765] [Step Debug] <- stdout -i 8 -c 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="8" success="1"></response>
+
+[3765] [Step Debug] <- status -i 9
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="9" status="starting" reason="ok"></response>
+
+[3765] [Step Debug] <- step_into -i 10
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="3"></xdebug:message></response>
+
+[3765] [Step Debug] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[3765] [Step Debug] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[1]]></property></response>
+
+[3765] [Step Debug] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property></response>
+
+[3765] [Step Debug] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property></response>
+
+[3765] [Step Debug] <- eval -i 15 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="15"><property type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property></response>
+
+[3765] [Step Debug] <- stack_get -i 16
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="16"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="3"></stack></response>
+
+[3765] [Step Debug] <- run -i 17
+[3765] [Step Debug] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[SW5kZXg8YnI+eHg=]]></stream>
+
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="17" status="stopping" reason="ok"></response>
+
+[3765] [Step Debug] <- detach -i 18
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="detach" transaction_id="18" status="stopping" reason="ok"></response>
+
+[3765] Log closed at 2023-07-21 08:53:23.636394
+
+[3765] Log opened at 2023-07-21 08:53:28.421007
+[3765] [Config] DEBUG: Checking if trigger 'XDEBUG_TRIGGER' is enabled for mode 'debug'
+[3765] [Config] INFO: Trigger value for 'XDEBUG_TRIGGER' not found, falling back to 'XDEBUG_SESSION'
+[3765] [Config] INFO: No shared secret: Activating
+[3765] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[3765] [Step Debug] INFO: Connected to debugging client: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port).
+[3765] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="8.2.7" protocol_version="1.0" appid="3765" idekey="XDEBUG_ECLIPSE"><engine version="3.2.1"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2023 by Derick Rethans]]></copyright></init>
+
+[3765] [Step Debug] <- feature_set -i 1 -n show_hidden -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="1" feature="show_hidden" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 2 -n max_depth -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="2" feature="max_depth" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 3 -n max_children -v 100
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="3" feature="max_children" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 4 -n extended_properties -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="4" feature="extended_properties" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 5 -n notify_ok -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="5" feature="notify_ok" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 6 -n resolved_breakpoints -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="6" feature="resolved_breakpoints" success="1"></response>
+
+[3765] [Step Debug] <- feature_set -i 7 -n breakpoint_include_return_value -v 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="feature_set" transaction_id="7" feature="breakpoint_include_return_value" success="1"></response>
+
+[3765] [Step Debug] <- stdout -i 8 -c 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stdout" transaction_id="8" success="1"></response>
+
+[3765] [Step Debug] <- status -i 9
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="status" transaction_id="9" status="starting" reason="ok"></response>
+
+[3765] [Step Debug] <- step_into -i 10
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="step_into" transaction_id="10" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="3"></xdebug:message></response>
+
+[3765] [Step Debug] <- eval -i 11 -- aXNzZXQoJF9TRVJWRVJbJ1BIUF9JREVfQ09ORklHJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="11"><property type="bool"><![CDATA[0]]></property></response>
+
+[3765] [Step Debug] <- eval -i 12 -- aXNzZXQoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="12"><property type="bool"><![CDATA[1]]></property></response>
+
+[3765] [Step Debug] <- eval -i 13 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9OQU1FJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="13"><property type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property></response>
+
+[3765] [Step Debug] <- eval -i 14 -- KHN0cmluZykoJF9TRVJWRVJbJ1NFUlZFUl9QT1JUJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="14"><property type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property></response>
+
+[3765] [Step Debug] <- eval -i 15 -- KHN0cmluZykoJF9TRVJWRVJbJ1JFUVVFU1RfVVJJJ10p
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="eval" transaction_id="15"><property type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property></response>
+
+[3765] [Step Debug] <- breakpoint_set -i 16 -t line -f file:///var/www/html/index.php -n 5
+[3765] [Step Debug] DEBUG: R: Line number (5) in smallest range of range (1-6).
+[3765] [Step Debug] DEBUG: F: Breakpoint line (5) found in set of executable lines.
+[3765] [Step Debug] -> <notify xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" name="breakpoint_resolved"><breakpoint type="line" resolved="resolved" filename="file:///var/www/html/index.php" lineno="5" state="enabled" hit_count="0" hit_value="0" id="37650001"></breakpoint></notify>
+
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="breakpoint_set" transaction_id="16" id="37650001" resolved="resolved"></response>
+
+[3765] [Step Debug] <- stack_get -i 17
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="17"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="3"></stack></response>
+
+[3765] [Step Debug] <- run -i 18
+[3765] [Step Debug] DEBUG: Checking whether to break on /var/www/html/index.php:5.
+[3765] [Step Debug] DEBUG: I: Current location: /var/www/html/index.php:5.
+[3765] [Step Debug] DEBUG: I: Matching breakpoint '/var/www/html/index.php:5' against location '/var/www/html/index.php:5'.
+[3765] [Step Debug] DEBUG: F: File names match (/var/www/html/index.php).
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="18" status="break" reason="ok"><xdebug:message filename="file:///var/www/html/index.php" lineno="5"></xdebug:message></response>
+
+[3765] [Step Debug] <- stack_get -i 19
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="stack_get" transaction_id="19"><stack where="{main}" level="0" type="file" filename="file:///var/www/html/index.php" lineno="5"></stack></response>
+
+[3765] [Step Debug] <- context_names -i 20
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_names" transaction_id="20"><context name="Locals" id="0"></context><context name="Superglobals" id="1"></context><context name="User defined constants" id="2"></context></response>
+
+[3765] [Step Debug] <- context_get -i 21 -d 0 -c 0
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="21" context="0"></response>
+
+[3765] [Step Debug] <- context_get -i 22 -d 0 -c 0
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="22" context="0"></response>
+
+[3765] [Step Debug] <- context_get -i 23 -d 0 -c 1
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="23" context="1"><property name="$_GET" fullname="$_GET" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_POST" fullname="$_POST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_COOKIE" fullname="$_COOKIE" type="array" children="1" numchildren="3" page="0" pagesize="100"><property name="_ga" fullname="$_COOKIE[&quot;_ga&quot;]" type="string" size="27" encoding="base64"><![CDATA[R0ExLjEuMTk0MTA3OTgwNi4xNjg5Njk2NTQx]]></property><property name="_gid" fullname="$_COOKIE[&quot;_gid&quot;]" type="string" size="26" encoding="base64"><![CDATA[R0ExLjEuMTM1OTkxMDIzLjE2ODk2OTY1NDE=]]></property><property name="XDEBUG_SESSION" fullname="$_COOKIE[&quot;XDEBUG_SESSION&quot;]" type="string" size="14" encoding="base64"><![CDATA[WERFQlVHX0VDTElQU0U=]]></property></property><property name="$_FILES" fullname="$_FILES" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_ENV" fullname="$_ENV" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_REQUEST" fullname="$_REQUEST" type="array" children="0" numchildren="0" page="0" pagesize="100"></property><property name="$_SERVER" fullname="$_SERVER" type="array" children="1" numchildren="40" page="0" pagesize="100"><property name="HTTP_HOST" fullname="$_SERVER[&quot;HTTP_HOST&quot;]" type="string" size="14" encoding="base64"><![CDATA[bG9jYWxob3N0OjgwODA=]]></property><property name="HTTP_CONNECTION" fullname="$_SERVER[&quot;HTTP_CONNECTION&quot;]" type="string" size="10" encoding="base64"><![CDATA[a2VlcC1hbGl2ZQ==]]></property><property name="HTTP_CACHE_CONTROL" fullname="$_SERVER[&quot;HTTP_CACHE_CONTROL&quot;]" type="string" size="9" encoding="base64"><![CDATA[bWF4LWFnZT0w]]></property><property name="HTTP_SEC_CH_UA" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA&quot;]" type="string" size="65" encoding="base64"><![CDATA[Ik5vdC9BKUJyYW5kIjt2PSI5OSIsICJHb29nbGUgQ2hyb21lIjt2PSIxMTUiLCAiQ2hyb21pdW0iO3Y9IjExNSI=]]></property><property name="HTTP_SEC_CH_UA_MOBILE" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA_MOBILE&quot;]" type="string" size="2" encoding="base64"><![CDATA[PzA=]]></property><property name="HTTP_SEC_CH_UA_PLATFORM" fullname="$_SERVER[&quot;HTTP_SEC_CH_UA_PLATFORM&quot;]" type="string" size="9" encoding="base64"><![CDATA[IldpbmRvd3Mi]]></property><property name="HTTP_DNT" fullname="$_SERVER[&quot;HTTP_DNT&quot;]" type="string" size="1" encoding="base64"><![CDATA[MQ==]]></property><property name="HTTP_UPGRADE_INSECURE_REQUESTS" fullname="$_SERVER[&quot;HTTP_UPGRADE_INSECURE_REQUESTS&quot;]" type="string" size="1" encoding="base64"><![CDATA[MQ==]]></property><property name="HTTP_USER_AGENT" fullname="$_SERVER[&quot;HTTP_USER_AGENT&quot;]" type="string" size="111" encoding="base64"><![CDATA[TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNS4wLjAuMCBTYWZhcmkvNTM3LjM2]]></property><property name="HTTP_ACCEPT" fullname="$_SERVER[&quot;HTTP_ACCEPT&quot;]" type="string" size="135" encoding="base64"><![CDATA[dGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2UvYXZpZixpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44LGFwcGxpY2F0aW9uL3NpZ25lZC1leGNoYW5nZTt2PWIzO3E9MC43]]></property><property name="HTTP_SEC_FETCH_SITE" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_SITE&quot;]" type="string" size="4" encoding="base64"><![CDATA[bm9uZQ==]]></property><property name="HTTP_SEC_FETCH_MODE" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_MODE&quot;]" type="string" size="8" encoding="base64"><![CDATA[bmF2aWdhdGU=]]></property><property name="HTTP_SEC_FETCH_USER" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_USER&quot;]" type="string" size="2" encoding="base64"><![CDATA[PzE=]]></property><property name="HTTP_SEC_FETCH_DEST" fullname="$_SERVER[&quot;HTTP_SEC_FETCH_DEST&quot;]" type="string" size="8" encoding="base64"><![CDATA[ZG9jdW1lbnQ=]]></property><property name="HTTP_ACCEPT_ENCODING" fullname="$_SERVER[&quot;HTTP_ACCEPT_ENCODING&quot;]" type="string" size="17" encoding="base64"><![CDATA[Z3ppcCwgZGVmbGF0ZSwgYnI=]]></property><property name="HTTP_ACCEPT_LANGUAGE" fullname="$_SERVER[&quot;HTTP_ACCEPT_LANGUAGE&quot;]" type="string" size="41" encoding="base64"><![CDATA[ZW4sZGU7cT0wLjksZW4tVVM7cT0wLjgscm87cT0wLjcsbGE7cT0wLjY=]]></property><property name="HTTP_COOKIE" fullname="$_SERVER[&quot;HTTP_COOKIE&quot;]" type="string" size="95" encoding="base64"><![CDATA[X2dhPUdBMS4xLjE5NDEwNzk4MDYuMTY4OTY5NjU0MTsgX2dpZD1HQTEuMS4xMzU5OTEwMjMuMTY4OTY5NjU0MTsgWERFQlVHX1NFU1NJT049WERFQlVHX0VDTElQU0U=]]></property><property name="PATH" fullname="$_SERVER[&quot;PATH&quot;]" type="string" size="60" encoding="base64"><![CDATA[L3Vzci9sb2NhbC9zYmluOi91c3IvbG9jYWwvYmluOi91c3Ivc2JpbjovdXNyL2Jpbjovc2JpbjovYmlu]]></property><property type="string" size="72"><name encoding="base64"><![CDATA[U0VSVkVSX1NJR05BVFVSRQ==]]></name><fullname encoding="base64"><![CDATA[JF9TRVJWRVJbIlNFUlZFUl9TSUdOQVRVUkUiXQ==]]></fullname><value encoding="base64"><![CDATA[PGFkZHJlc3M+QXBhY2hlLzIuNC41NiAoRGViaWFuKSBTZXJ2ZXIgYXQgbG9jYWxob3N0IFBvcnQgODA4MDwvYWRkcmVzcz4K]]></value></property><property name="SERVER_SOFTWARE" fullname="$_SERVER[&quot;SERVER_SOFTWARE&quot;]" type="string" size="22" encoding="base64"><![CDATA[QXBhY2hlLzIuNC41NiAoRGViaWFuKQ==]]></property><property name="SERVER_NAME" fullname="$_SERVER[&quot;SERVER_NAME&quot;]" type="string" size="9" encoding="base64"><![CDATA[bG9jYWxob3N0]]></property><property name="SERVER_ADDR" fullname="$_SERVER[&quot;SERVER_ADDR&quot;]" type="string" size="10" encoding="base64"><![CDATA[MTcyLjI0LjAuMg==]]></property><property name="SERVER_PORT" fullname="$_SERVER[&quot;SERVER_PORT&quot;]" type="string" size="4" encoding="base64"><![CDATA[ODA4MA==]]></property><property name="REMOTE_ADDR" fullname="$_SERVER[&quot;REMOTE_ADDR&quot;]" type="string" size="10" encoding="base64"><![CDATA[MTcyLjI0LjAuMQ==]]></property><property name="DOCUMENT_ROOT" fullname="$_SERVER[&quot;DOCUMENT_ROOT&quot;]" type="string" size="13" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbA==]]></property><property name="REQUEST_SCHEME" fullname="$_SERVER[&quot;REQUEST_SCHEME&quot;]" type="string" size="4" encoding="base64"><![CDATA[aHR0cA==]]></property><property name="CONTEXT_PREFIX" fullname="$_SERVER[&quot;CONTEXT_PREFIX&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="CONTEXT_DOCUMENT_ROOT" fullname="$_SERVER[&quot;CONTEXT_DOCUMENT_ROOT&quot;]" type="string" size="13" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbA==]]></property><property name="SERVER_ADMIN" fullname="$_SERVER[&quot;SERVER_ADMIN&quot;]" type="string" size="19" encoding="base64"><![CDATA[d2VibWFzdGVyQGxvY2FsaG9zdA==]]></property><property name="SCRIPT_FILENAME" fullname="$_SERVER[&quot;SCRIPT_FILENAME&quot;]" type="string" size="23" encoding="base64"><![CDATA[L3Zhci93d3cvaHRtbC9pbmRleC5waHA=]]></property><property name="REMOTE_PORT" fullname="$_SERVER[&quot;REMOTE_PORT&quot;]" type="string" size="5" encoding="base64"><![CDATA[NDQzODA=]]></property><property name="GATEWAY_INTERFACE" fullname="$_SERVER[&quot;GATEWAY_INTERFACE&quot;]" type="string" size="7" encoding="base64"><![CDATA[Q0dJLzEuMQ==]]></property><property name="SERVER_PROTOCOL" fullname="$_SERVER[&quot;SERVER_PROTOCOL&quot;]" type="string" size="8" encoding="base64"><![CDATA[SFRUUC8xLjE=]]></property><property name="REQUEST_METHOD" fullname="$_SERVER[&quot;REQUEST_METHOD&quot;]" type="string" size="3" encoding="base64"><![CDATA[R0VU]]></property><property name="QUERY_STRING" fullname="$_SERVER[&quot;QUERY_STRING&quot;]" type="string" size="0" encoding="base64"><![CDATA[]]></property><property name="REQUEST_URI" fullname="$_SERVER[&quot;REQUEST_URI&quot;]" type="string" size="1" encoding="base64"><![CDATA[Lw==]]></property><property name="SCRIPT_NAME" fullname="$_SERVER[&quot;SCRIPT_NAME&quot;]" type="string" size="10" encoding="base64"><![CDATA[L2luZGV4LnBocA==]]></property><property name="PHP_SELF" fullname="$_SERVER[&quot;PHP_SELF&quot;]" type="string" size="10" encoding="base64"><![CDATA[L2luZGV4LnBocA==]]></property><property name="REQUEST_TIME_FLOAT" fullname="$_SERVER[&quot;REQUEST_TIME_FLOAT&quot;]" type="float"><![CDATA[1689929608.4167]]></property><property name="REQUEST_TIME" fullname="$_SERVER[&quot;REQUEST_TIME&quot;]" type="int"><![CDATA[1689929608]]></property></property></response>
+
+[3765] [Step Debug] <- context_get -i 24 -d 0 -c 2
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="context_get" transaction_id="24" context="2"></response>
+
+[3765] [Step Debug] <- run -i 25
+[3765] [Step Debug] -> <stream xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" type="stdout" encoding="base64"><![CDATA[SW5kZXg8YnI+eHg=]]></stream>
+
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="run" transaction_id="25" status="stopping" reason="ok"></response>
+
+[3765] [Step Debug] <- detach -i 26
+[3765] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" command="detach" transaction_id="26" status="stopping" reason="ok"></response>
+
+[3765] Log closed at 2023-07-21 08:53:30.824627
+
